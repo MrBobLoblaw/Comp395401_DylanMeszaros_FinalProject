@@ -888,9 +888,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 405654678}
+  - {fileID: 1971679745}
   - {fileID: 1411351718}
   - {fileID: 523421668}
-  - {fileID: 1971679745}
   - {fileID: 2145781361}
   - {fileID: 638080388}
   - {fileID: 1598266982}
