@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08e14973f9e33d44293a01e914460d1a, type: 3}
+  m_Name: Tube
+  m_EditorClassIdentifier: 
+  toolType: 0
+  mixtures:
+  - substances:
+    - Copper Oxide
+    - Hydrochloric Acid
+    result: {fileID: 11400000, guid: eb23f555dbd4ff24981d0a1a71984f8d, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Copper Sulfide
+    - Hydrochloric Acid
+    result: {fileID: 11400000, guid: 512f4646879113b438cc7fa674939338, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Iron Oxide
+    - Water
+    result: {fileID: 11400000, guid: 614c0765fc5f034448907727194881e4, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Iron Sulfide
+    - Hydrochloric Acid
+    result: {fileID: 11400000, guid: 9625f708712820848b31da5668db7a19, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Salt
+    - Water
+    result: {fileID: 11400000, guid: c6064848a189bfc44a619fff7e279a8a, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Carbon Dioxide
+    - Water
+    result: {fileID: 11400000, guid: 58f3e57043cf2e94da0b5667d86b2d68, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Sulfur Dioxide
+    - Water
+    result: {fileID: 11400000, guid: 66fc4ee5b8fd17a4680041cec0c10404, type: 2}
+    positiveReaction: 1
+  - substances:
+    - Sulfur Dioxide
+    - Water
+    result: {fileID: 11400000, guid: b11b5278c9963c245bcc66d5f9cc44cb, type: 2}
+    positiveReaction: 1

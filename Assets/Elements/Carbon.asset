@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3efbcc9a143c464991e5e5e0440175d, type: 3}
+  m_Name: Carbon
+  m_EditorClassIdentifier: 
+  elementSymbol: C
+  icon: {fileID: 1211597917, guid: 7e3b837f68dce154daac0534e839eba3, type: 3}
+  colorKey: {r: 0.16470589, g: 0.25490198, b: 0.39607847, a: 1}
+  interactions:
+  - interactedElement: {fileID: 11400000, guid: b3f7793647534f14cb1322a787d147d7, type: 2}
+    compoundData: {fileID: 11400000, guid: db5ffe61944124a49bb09296c5287383, type: 2}
+    reaction: {fileID: 3003704232424325139, guid: 77d6b50f671e6214baa19eed6333da61, type: 3}
+  - interactedElement: {fileID: 11400000, guid: c0d02489fb85e9248b5a07fa1de2c3f2, type: 2}
+    compoundData: {fileID: 11400000, guid: d07d55916de7aba46bfc3b4cbe483b28, type: 2}
+    reaction: {fileID: 3003704232424325139, guid: 77d6b50f671e6214baa19eed6333da61, type: 3}

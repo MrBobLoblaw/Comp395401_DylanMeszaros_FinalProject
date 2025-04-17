@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a5462dff355a643bfe9cfb748318ec, type: 3}
+  m_Name: Methane
+  m_EditorClassIdentifier: 
+  toolType: 1
+  compoundSymbol: CH4
+  icon: {fileID: 1429872218, guid: 7e3b837f68dce154daac0534e839eba3, type: 3}
+  colorKey: {r: 0.11565503, g: 0.13993864, b: 0.21698111, a: 1}
